@@ -1,0 +1,9 @@
+I, [2016-02-24T02:08:17.697861 #16650]  INFO -- : Refreshing Gem list
+I, [2016-02-24T02:08:20.158441 #16650]  INFO -- : listening on addr=/home/congel/trim-trips/shared/sockets/unicorn.sock fd=11
+I, [2016-02-24T02:08:20.158614 #16650]  INFO -- : worker=0 spawning...
+I, [2016-02-24T02:08:20.160355 #16650]  INFO -- : worker=1 spawning...
+I, [2016-02-24T02:08:20.161245 #16655]  INFO -- : worker=0 spawned pid=16655
+I, [2016-02-24T02:08:20.161408 #16655]  INFO -- : worker=0 ready
+I, [2016-02-24T02:08:20.162572 #16650]  INFO -- : master process ready
+I, [2016-02-24T02:08:20.168138 #16658]  INFO -- : worker=1 spawned pid=16658
+I, [2016-02-24T02:08:20.168335 #16658]  INFO -- : worker=1 ready
