@@ -24,7 +24,7 @@ default: &default
 
 development:
   <<: *default
-  database: trim-trips_development
+  database: trim_trips_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -81,6 +81,6 @@ test:
 #
 production:
   <<: *default
-  database: trim-trips_production
+  database: trim_trips_production
   username: <%= ENV['TRIM_TRIPS_DB_USERNAME'] %>
   password: <%= ENV['TRIM_TRIPS_DB_PASSWORD'] %>
